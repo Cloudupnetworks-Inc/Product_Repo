@@ -1,0 +1,4 @@
+﻿Barclays Investment Statement
+Account: 864633
+Tax ID: 86058
+IBAN: GB29BARC60161331914633
