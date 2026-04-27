@@ -1,0 +1,4 @@
+﻿Barclays Investment Statement
+Account: 734404
+Tax ID: 73058
+IBAN: GB29BARC60161331914404
