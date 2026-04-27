@@ -1,0 +1,4 @@
+﻿Patient: Patient_18
+Diagnosis: Hypertension and Asthma
+Clinic: Northside Medical
+Phone: 555-0156
